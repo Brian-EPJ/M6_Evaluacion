@@ -220,7 +220,7 @@ Dejo esta nota como evidencia de que **se intentó integrar**, pero no fue posib
 
 ## 🗃 **Base de Datos**
 
-Se utiliza **MariaDB** con la configuración incluida en `application.properties`.
+Se utiliza **MySQL** con la configuración incluida en `application.properties`.
 
 ---
 
@@ -235,7 +235,7 @@ Se utiliza **MariaDB** con la configuración incluida en `application.properties
 
 ---
 
-## 👨‍💻 Desarrollado por
+## 👨‍💻 Desarrollado por Brian Pradenas
 
 **Brian Pradenas Jaramillo** – Evaluación Módulo 6
 
